@@ -1,7 +1,5 @@
 # Autonomous-Drone-integrating-AI-for-Object-Detection
 
-[![Python Version](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An intelligent drone control system that uses computer vision to autonomously detect and track a person. This project leverages the **YOLOv5** object detection model, **DroneKit** for MAVLink communication, and **OpenCV** for real-time video processing.
 
